@@ -1,0 +1,49 @@
+.border1{
+	border:15px ridge turquoise
+}
+.box{
+	background-color:turquoise ;
+	width:10px;
+	height:10px;
+	padding:20px;
+	border-radius:40px;
+	border:1px solid black;
+}
+.float{
+	float:left;
+}
+fieldset{
+	width:500px;
+	background-color:turquoise;
+}
+fieldset legend{
+	
+	font-size:25px;
+	font-style:italic;
+	background-color:turquoise;
+	border:1px solid black;
+}
+.clear{
+	clear:both;
+}
+.padding{
+	padding-left:580px;
+	
+}
+dt{
+	text-decoration:underline;
+	font-size:20px;
+	font-weight:bold;
+}
+hr{
+	weight:50px;
+	color:turquoise;
+}
+.margin{
+	margin:10px;
+}
+.padding2{
+	padding-left:450px;
+}
+
+
